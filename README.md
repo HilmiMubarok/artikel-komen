@@ -1,5 +1,5 @@
-Membuat Artikel dan Komentar dengan php dan mysql
----- STEP INSTALASI ----
+* Membuat Artikel dan Komentar dengan php dan mysql
+* ---- STEP INSTALASI ----
 
 Buat database dengan nama artikelkomen
 Import database artikelkomen.sql yang ada di folder db ke database yang telah dibuat
