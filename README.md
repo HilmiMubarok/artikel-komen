@@ -24,10 +24,6 @@ Akses halaman dengan localhost/namafolder
 
 * **Hilmi Mubarok** - *Initial work* - [HilmiMubarok](https://github.com/HilmiMubarok)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
 ## Contact
 * Gmail : m.hilmimubarok@gmail.com
 * Wa & Telegram : 085877690812
