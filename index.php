@@ -6,6 +6,7 @@
 	<title>Artikel Komentar</title>
 </head>
 <body>
+	<h1>Daftar Artikel</h1>
 	<?php
 		$sql = "SELECT * FROM artikel";
 		$que = mysql_query($sql);
