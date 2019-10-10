@@ -4,6 +4,7 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Detail</title>
+	<h3>Tambahan</h3>
 </head>
 <body>
 	<?php
